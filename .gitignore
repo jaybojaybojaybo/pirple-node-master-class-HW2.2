@@ -1,2 +1,2 @@
 #Ignore authorization credentials
-/env/config.js
+env/config.js
